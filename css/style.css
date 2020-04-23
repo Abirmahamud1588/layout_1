@@ -8,9 +8,12 @@ header{
     background: #5cbaff;
     overflow: hidden;
     
-   box-shadow: 0px 2px #0000005c;
+   box-shadow: 0px 2px 32px #541c1c5c;
     display: block;
     
+   position: absolute;
+   /*! position: relative; */
+   margin-top: -2px;
 }
 .main{
 width:45%;
